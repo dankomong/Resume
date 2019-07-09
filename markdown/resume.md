@@ -8,7 +8,6 @@ Computer Information Systems  graduate from Baruch College with 2 years of web a
 ---
 **Baruch College, City University of New York** New York, NY, *Graduated Dec 2018*                                 
  *B.B.A. Computer Information Systems, Major GPA: 3.61/4.0*   
-
  **Relevant Coursework:**  Intro to Information Systems and Technologies, Object-Oriented Programming I, Object-Oriented Programming II, Database Management Systems, Systems Analysis and Design, e-Business Technologies, Principles of Web Design, Web Application Development, Information Technology Development and Project Management
 
  **Flatiron School**  New York, NY, *March 2019 - June 2019*     
